@@ -30,4 +30,4 @@
 
 ## Presentation
 
-Individual presentation will be on January 22, 2024. You will be graded by functionaliy (70%) and design (30%).
+Individual presentation will be on May 13, 2024. You will be graded by functionaliy (70%) and design (30%).
